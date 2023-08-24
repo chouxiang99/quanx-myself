@@ -1,0 +1,14 @@
+// ==UserScript==
+// @ScriptName        自用去除开屏广告
+// @UpdateTime        2023-08-24
+
+
+
+
+
+# ======= B ======= #
+
+# > 比亚迪汽车
+^https?:\/\/cache\.bydauto\.com\.cn\/dilink_user_upload url reject
+
+hostname = cache.bydauto.com.cn
