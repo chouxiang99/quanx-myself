@@ -9,6 +9,6 @@
 # ======= B ======= #
 
 # > 比亚迪汽车
-^https?:\/\/cache\.bydauto\.com\.cn\/dilink_user_upload url reject
+^https?:\/\/cache\.bydauto\.com\.cn\/dilink_user_upload url reject-200
 
 hostname = cache.bydauto.com.cn
